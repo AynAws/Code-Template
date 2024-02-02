@@ -8,9 +8,15 @@ Copy and paste this for code
     <head>
         <title>A.A. Birthday</title>
         <!--FAVICON-->
-        <link rel="icon" type="image/x-icon" href="imgs/cakeclip.png">
+        <link 
+            rel="icon" 
+            type="image/x-icon" 
+            href="imgs/cakeclip.png"
+        />
         <!-- Required meta tags -->
-        <meta charset="utf-8" />
+        <meta 
+            charset="utf-8"
+        />
         <meta
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
@@ -22,7 +28,10 @@ Copy and paste this for code
             integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             crossorigin="anonymous"
         />
-        <link rel="stylesheet" href="style.css">
+        <link 
+            rel="stylesheet" 
+            href="style.css"
+        />
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     </head>
