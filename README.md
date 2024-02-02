@@ -54,6 +54,7 @@ Copy and paste this for code
 # CSS
 
 /* Fancy Scroll */
+
 ::-webkit-scrollbar {
   width: 10px;
   }
