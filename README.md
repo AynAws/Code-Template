@@ -3,7 +3,7 @@ Copy and paste this for code
 
 # HTML
 
-<!doctype html>
+~~<!doctype html>
 <html lang="en">
     <head>
         <title>A.A. Birthday</title>
@@ -71,7 +71,7 @@ Copy and paste this for code
   background: #888;
   }
   
-::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover {~~
   background: #555;
   border-radius: 10px;
   width: 20px;
