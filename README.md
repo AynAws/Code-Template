@@ -6,12 +6,12 @@ Copy and paste this for code
 <!doctype html>
 <html lang="en">
     <head>
-        <title>A.A. Birthday</title>
+        <title>Placeholder</title>
         <!--FAVICON-->
         <link 
             rel="icon" 
             type="image/x-icon" 
-            href="imgs/cakeclip.png"
+            href="imgs/placeholder.png"
         />
         <!-- Required meta tags -->
         <meta 
