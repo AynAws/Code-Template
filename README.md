@@ -57,22 +57,22 @@ Copy and paste this for code
 
 ::-webkit-scrollbar {
   width: 10px;
-  }
+}
   
 ::-webkit-scrollbar-thumb:hover {
   width: 10px;
-  }
+}
   
 ::-webkit-scrollbar-track {
   background: white;
-  }
+}
   
 ::-webkit-scrollbar-thumb {
   background: #888;
-  }
+}
   
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
   border-radius: 10px;
   width: 20px;
-  }
+}
